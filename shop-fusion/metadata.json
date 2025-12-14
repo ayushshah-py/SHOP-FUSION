@@ -1,0 +1,5 @@
+{
+  "name": "Shop Fusion",
+  "description": "A premium React-based e-commerce fashion platform replacing the requested PHP stack with a modern frontend architecture. Features a full shopping cart, admin dashboard, user authentication simulation, and a Gemini-powered AI Personal Stylist.",
+  "requestFramePermissions": []
+}
